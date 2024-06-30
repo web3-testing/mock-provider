@@ -59,5 +59,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3-testing/mock-provider.git"
   }
 }

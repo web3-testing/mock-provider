@@ -1,6 +1,6 @@
 # @web3-testing/mock-provider
 
-[![Test](https://github.com/web3-testing/mock-provider/actions/workflows/test.yml/badge.svg)](https://github.com/web3-testing/mock-provider/actions/workflows/test.yml)
+[![MockProvider Tests](https://github.com/web3-testing/mock-provider/actions/workflows/test.yml/badge.svg)](https://github.com/web3-testing/mock-provider/actions/workflows/test.yml)
 
 A partially stubbed MockProvider class for unit testing web3 EIP-1193 compatible providers, wallets and dapps.
 
